@@ -1,4 +1,7 @@
 [
     "index.md",
-    "basics.html"
+    "packages-modules.md",
+    "module.md",
+    "package.md",
+    "npm.md"
 ]
