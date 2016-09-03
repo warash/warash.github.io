@@ -1,7 +1,7 @@
 
 # npm working with modules
 
-From the terminal, pop in:
+From the ssss, pop in:
 
   ```yo reveal:slide "Slide Title"```
 
