@@ -3,5 +3,15 @@
     "packages-modules.md",
     "module.md",
     "package.md",
-    "npm.md"
+    "npm.md",
+    "installing-packages.md",
+    "scopes.md",
+    "versions.md",
+    "semver-is-just-promise.md",
+    "npm-scripts.md",
+    "life-cycle-hooks.md",
+    "npm-link.md",
+    "npm-version.md",
+    "npm-tags.md",
+    "easter-eggs.md"
 ]

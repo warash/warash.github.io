@@ -1,8 +1,9 @@
 ###javascript package
 
-- npm init
+- npm init / npm init --yes
 - main property refers to entry point for our package
-
+- if you are in git repo npm will add this to your package.json
+- npm init can be re-run
 ```json
 {
   "name": "demo",
@@ -15,10 +16,10 @@
   "author": "",
   "license": "ISC"
 }
-
 ```
 
 exaple usage:
+
 ```javascript
 require('path\to\my\funky\module');
 ```
